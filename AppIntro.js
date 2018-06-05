@@ -9,7 +9,9 @@ import {
   Animated,
   Dimensions,
   Image,
-  Platform,
+  WebView,
+  Platform
+  
 } from 'react-native';
 import Swiper from 'react-native-swiper';
 import DoneButton from './components/DoneButton';
